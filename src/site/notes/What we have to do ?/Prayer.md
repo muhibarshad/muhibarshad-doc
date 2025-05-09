@@ -1,6 +1,0 @@
----
-{"dg-publish":true,"permalink":"/what-we-have-to-do/prayer/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-09T22:26:33.862+05:00","updated":"2025-05-07T23:54:45.968+05:00"}
----
-
-O my lord Allah! I looked in every direction left right up down back and front 360°, I go to every place , I close me eyes, I see everything, but i found no one whom I claim my sufferings. Whom i say forgive me. Whom I love unconditional, Whom I never discover completely, Whom i will not get resistance. I did so many wrong to myself , forgive me and accept me and I know , you want I to win on day of judgment. That's why you showed me so many signs . I see you through my heart eyes. I know you listen to my sufferings. Ya illahi waleesa illa rabbi siwa. Ya Allah if you don't forgive me, I will destroy and I will become in between of those whose are disbelievers. Ya Allah I'm in so much pain. Ya Allah your perosn is about to completely die, Ya Allah help me , You helped me I rejected i did wrong Ya Allah forgive me and Be mercy upon me . Ya Allah put me on truth and straight path , protect me and open me eyes and make me to see things as they are and increase my knowledge, and put love of you in heart that supports my knowledge in actions. I want to see you in jannah .
-
