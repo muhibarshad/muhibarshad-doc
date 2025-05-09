@@ -1,0 +1,23 @@
+---
+{"dg-publish":true,"permalink":"/what-we-have-to-do/how-to-revive-ummah/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-09T22:26:33.866+05:00","updated":"2025-05-07T23:54:22.852+05:00"}
+---
+
+In the last 1446 years, 85% of the time, Muslims were either superpowers or among them. This shows that through Islam, we can achieve barakah and worldly success. Some believe following Islam leads to misery, but Islam was revealed to protect individuals, communities, and all humanity, guiding them to success in both this world and the Hereafter by surrendering to the Creator and following Prophet Muhammad (SAW).
+
+  
+
+Key points to start:
+
+1.increase Religiosity of people 
+
+2. Increase deen, general and Current affairs   Knowledge
+
+3. Increase courtesy 
+
+4. Unite people 
+
+5. Improve Management Skills
+
+6. Right Qualified People in influentional positions 
+
+7. Have high ambitions or project( or projectsss) to show Allah
