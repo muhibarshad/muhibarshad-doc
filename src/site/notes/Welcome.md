@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-09T22:26:33.850+05:00","updated":"2025-05-10T01:06:54.067+05:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"noteIcon":"","created":"2025-05-09T22:26:33.850+05:00","updated":"2025-05-10T01:06:54.067+05:00"}
 ---
 
 # Muhib Arshad

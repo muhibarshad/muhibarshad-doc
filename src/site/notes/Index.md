@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-10T00:47:09.826+05:00","updated":"2025-05-10T12:25:46.570+05:00"}
+{"dg-publish":true,"permalink":"/index/","noteIcon":"","created":"2025-05-10T00:47:09.826+05:00","updated":"2025-05-10T12:25:46.570+05:00"}
 ---
 
 
@@ -7,7 +7,6 @@
 
 | File                                                                                                                                                                           | Note                                                      | Folder                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------- | -------------------------------------------------- |
-| [[Basics/1.\|1.]]                                                                                                                                                           | 1.                                                        | Basics                                             |
 | [[Towards Allah/Basics/1. Fastest Evidences to GOD exists\|1. Fastest Evidences to GOD exists]]                                                                             | 1. Fastest Evidences to GOD exists                        | Towards Allah/Basics                               |
 | [[Towards Allah/Basics/2. Who are you ?\|2. Who are you ?]]                                                                                                                 | 2. Who are you ?                                          | Towards Allah/Basics                               |
 | [[Towards Allah/Basics/3. We all have knowledge, not belief.\|3. We all have knowledge, not belief.]]                                                                       | 3. We all have knowledge, not belief.                     | Towards Allah/Basics                               |
